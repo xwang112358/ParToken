@@ -1,0 +1,8 @@
+models
+gvp-baseline/data
+*.pyc
+gvp-baseline/wandb
+gvp-baseline/__pycache__
+gvp-baseline/models
+gvp-baseline/outputs
+gvp-baseline/saved_models
